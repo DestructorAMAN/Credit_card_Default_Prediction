@@ -21,10 +21,18 @@ The model's performance is evaluated using commonly used metrics such as accurac
 ### To use the Credit Card Default prediction model, follow these steps:
 
 Clone the repository to your local machine.
+
 Install the required dependencies mentioned in the requirements.txt file.
+
 Run the provided Jupyter notebook or Python script to train the model on your dataset or use the pre-trained model included in the repository.
+
 Adjust the hyperparameters and feature selection methods as needed to customize the model to your specific use case.
+
 Evaluate the model's performance using the provided evaluation metrics.
+
 Utilize the trained model to make predictions on new, unseen credit card data for identifying potential default risks.
-Contributing
-Contributions to this Credit Card Default prediction model are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. ## Let's collaborate to enhance the accuracy and effectiveness of the model.
+
+## Contributing
+Contributions to this Credit Card Default prediction model are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## Let's collaborate to enhance the accuracy and effectiveness of the model.
